@@ -1,4 +1,4 @@
-# warmup_two
+# warmup_one
 
 ## Project setup
 ```
